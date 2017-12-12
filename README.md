@@ -1,2 +1,2 @@
 # abc123
-"this is a tutorial.
+helloq,this is a tutorial for beginers and it is very usefull for btech 2nd year student
